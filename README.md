@@ -17,6 +17,8 @@ Bienvenue sur mon profil GitHub ! Je suis Pierre-Julien, actuellement en formati
 
 **🚀 CodeWars - Niveau Kyu 2** :   
 En quête constante de perfectionnement en codage, je vise le niveau Kyu 2 sur CodeWars. Cet objectif est un pilier pour aiguiser mes compétences en programmation.
+
+
 ![CodeWars Badge](https://www.codewars.com/users/tmnpierre/badges/large)
 
 **🎮 Exploration de Coding Game** :   
