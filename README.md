@@ -55,4 +55,4 @@ My long-term ambition is to integrate an apprenticeship in Application Design an
 For any questions, collaboration proposals, or just to chat, feel free to contact me:
 
 - 📧 Email: [tomyn.pierre@gmail.com](mailto:tomyn.pierre@gmail.com)
-- 🔗 LinkedIn: [Pierre-Julien Tomyn](https://www.linkedin.com/in/pierre-julien-tomyn-07aa0228b)
+- 🔗 LinkedIn: [Pierre-Julien Tomyn](www.linkedin.com/in/pierre-julien-tomyn)
