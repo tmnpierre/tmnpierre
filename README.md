@@ -1,4 +1,4 @@
-### 🌱 Étudiant en Développement .NET/C# - Aspirant au Backend 🌱
+### 🌱 Student in .NET/C# Development - Aspiring to Backend 🌱
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
@@ -11,48 +11,48 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Introduction :
-Bienvenue sur mon profil GitHub ! Je suis Pierre-Julien, actuellement en formation de développeur .NET/C#. Passionné par le backend, je suis engagé dans un parcours d'apprentissage intensif pour maîtriser les fondamentaux et les aspects avancés du développement backend en .NET/C#. Mon objectif est de poursuivre avec une formation spécialisée en Conception et Développement d'Applications (CDA), où je souhaite approfondir mes compétences et acquérir une expertise solide dans la création de solutions backend efficaces et innovantes.
+Welcome to my GitHub profile! I am Pierre-Julien, currently training as a .NET/C# developer. Passionate about backend, I am engaged in an intensive learning path to master the fundamentals and advanced aspects of backend development in .NET/C#. My goal is to continue with specialized training in Application Design and Development (CDA), where I wish to deepen my skills and acquire solid expertise in creating effective and innovative backend solutions.
 
-### Projets et Expériences
+### Projects and Experiences
 
-**🚀 CodeWars - Niveau Kyu 2** :   
-En quête constante de perfectionnement en codage, je vise le niveau Kyu 2 sur CodeWars. Cet objectif est un pilier pour aiguiser mes compétences en programmation.
+**🚀 CodeWars - Kyu 2 Level** :   
+Constantly seeking to improve my coding skills, I aim for the Kyu 2 level on CodeWars. This goal is a cornerstone for honing my programming skills.
 \
 \
 ![CodeWars Badge](https://www.codewars.com/users/tmnpierre/badges/large)
 \
 \
-**🎮 Exploration de Coding Game** :   
-Je me lance dans Coding Game, un environnement stimulant pour développer mes compétences de programmation de manière ludique et interactive.
+**🎮 Exploring Coding Game** :   
+I'm diving into Coding Game, a stimulating environment to develop my programming skills in a fun and interactive way.
 
-**💻 API Contact en JavaScript** :   
-Je travaille sur un projet d'API Contact en JavaScript, une démarche pratique pour renforcer mes capacités en développement web.
+**💻 Contact API in JavaScript** :   
+I am working on a Contact API project in JavaScript, a practical approach to strengthen my web development capabilities.
 
-**🌉 Recherche d'Alternance en CDA** :   
-Mon ambition à long terme est d'intégrer une alternance en Conception et Développement d'Applications, un pas essentiel pour allier théorie et pratique dans mon parcours professionnel.
+**🌉 Seeking Apprenticeship in CDA** :   
+My long-term ambition is to integrate an apprenticeship in Application Design and Development, an essential step to combine theory and practice in my professional journey.
 
-### Compétences Techniques
+### Technical Skills
 
-**Langages de Programmation** :
-- 🌟 **C#** : Expérience solide dans le développement backend avec .NET.
-- ⚡ **TypeScript** & **JavaScript** : Maîtrise des langages pour le développement front-end et back-end.
-- 📊 **SQL** : Compétences avancées en manipulation et gestion de bases de données.
+**Programming Languages** :
+- 🌟 **C#** : Solid experience in backend development with .NET.
+- ⚡ **TypeScript** & **JavaScript** : Proficiency in languages for front-end and back-end development.
+- 📊 **SQL** : Advanced skills in database manipulation and management.
 
-**Outils de Développement (Tooling)** :
-- 🛠️ **Git** : Maîtrise complète des opérations de versioning et de collaboration.
-- 📦 **NPM**, **PNPM** : Gestion efficace des dépendances dans les projets JavaScript/TypeScript.
-- 📬 **Postman** : Expérience dans le test et le débogage d'APIs.
-- 🗄️ **PostgreSQL**, **SQL Server** : Gestion de bases de données relationnelles.
-- 🖥️ **Vim**, **NeoVim**, **LunarVim** : Utilisation de ces éditeurs pour un codage efficace et rapide.
-- 💻 **Lazygit**, **GitHub CLI**, **GitFlow** : Outils pour optimiser les flux de travail Git.
+**Development Tools (Tooling)** :
+- 🛠️ **Git** : Complete mastery of versioning and collaboration operations.
+- 📦 **NPM**, **PNPM** : Effective dependency management in JavaScript/TypeScript projects.
+- 📬 **Postman** : Experience in testing and debugging APIs.
+- 🗄️ **PostgreSQL**, **SQL Server** : Database management of relational databases.
+- 🖥️ **Vim**, **NeoVim**, **LunarVim** : Using these editors for efficient and fast coding.
+- 💻 **Lazygit**, **GitHub CLI**, **GitFlow** : Tools to optimize Git workflows.
 
 **Frameworks** :
-- 🌐 **.NET Core** : Expérience dans la création d'applications backend robustes et performantes.
-- 💡 **Node.js**, **NestJS** : Utilisation de ces technologies pour développer des applications back-end modernes et évolutives.
+- 🌐 **.NET Core** : Experience in creating robust and high-performance backend applications.
+- 💡 **Node.js**, **NestJS** : Using these technologies to develop modern and scalable backend applications.
 
-### Contactez-moi
+### Contact Me
 
-Pour toute question, proposition de collaboration ou simplement pour échanger, n'hésitez pas à me contacter :
+For any questions, collaboration proposals, or just to chat, feel free to contact me:
 
-- 📧 Email : [tomyn.pierre@gmail.com](mailto:tomyn.pierre@gmail.com)
-- 🔗 LinkedIn : [Pierre-Julien Tomyn](https://www.linkedin.com/in/pierre-julien-tomyn-07aa0228b)
+- 📧 Email: [tomyn.pierre@gmail.com](mailto:tomyn.pierre@gmail.com)
+- 🔗 LinkedIn: [Pierre-Julien Tomyn](https://www.linkedin.com/in/pierre-julien-tomyn-07aa0228b)
