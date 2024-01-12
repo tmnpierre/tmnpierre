@@ -106,5 +106,5 @@ I'm diving into Coding Game, a stimulating environment to develop my programming
 
 For any questions, collaboration proposals, or just to chat, feel free to contact me:
 
-
-
+- 📧 Email: [tomyn.pierre@gmail.com](mailto:tomyn.pierre@gmail.com)
+- 🔗 LinkedIn: [Pierre-Julien Tomyn](https://www.linkedin.com/in/pierre-julien-tomyn-07aa0228b/)
