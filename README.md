@@ -49,16 +49,16 @@ Welcome to my GitHub profile! I am Pierre-Julien, currently training as a .NET/C
 ### Projects and Experiences
 
 **🌉 Seeking Apprenticeship in Application Design and Development (CDA)**:  
-My long-term ambition is to integrate an apprenticeship in Application Design and Development. This is an essential step to combine theory and practice in my professional journey.
+My long-term ambition is to integrate an apprenticeship in Application Design and Development. This is a crucial step in blending theory with practice on my professional path.
 
 **🎯 2024 Goal: Daily Commit for Every Day of the Year**:  
-I am committed to enhancing my coding practice by setting a goal for 2024 to make a commit every day. This consistent effort is aimed at refining my skills and maintaining a disciplined approach to software development.
-
-**📝 Text Analyzer Project in Java**:  
-Currently, I am developing a Text Analyzer in Java. This project focuses on analyzing various aspects of textual data, demonstrating my capability in handling complex algorithms and data processing.
+I am dedicated to enhancing my coding practice by setting a 2024 goal to make a commit daily. This consistent effort aims to sharpen my skills and sustain a disciplined approach to software development.
 
 **📰 Blog Application in C#**:  
-I am also working on a Blog Application using C#. This project allows me to showcase my skills in web development, particularly in creating user-centric and dynamic web applications.
+I am currently working on a Blog Application using C#. This project allows me to exhibit my web development abilities, especially in creating user-focused and dynamic web applications.
+
+**📝 Text Analyzer Project in Java (Completed)**:  
+I have successfully developed a Text Analyzer in Java. This project focused on analyzing various textual data aspects, showcasing my proficiency in managing complex algorithms and data processing.
 
 **🚀 CodeWars - Kyu 2 Level**:  
 Constantly seeking to improve my coding skills, I aim for the Kyu 2 level on CodeWars. Achieving this level is a cornerstone in honing my programming skills.
