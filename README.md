@@ -78,16 +78,6 @@ My long-term ambition is to integrate an apprenticeship in Application Design an
 **🎯 2024 Goal: Daily Commit for Every Day of the Year**:  
 I am dedicated to enhancing my coding practice by setting a 2024 goal to make a commit daily. This consistent effort aims to sharpen my skills and sustain a disciplined approach to software development.
 
-**🚀 CodeWars - Kyu 2 Level**:  
-Constantly seeking to improve my coding skills, I aim for the Kyu 2 level on CodeWars. Achieving this level is a cornerstone in honing my programming skills.
-\
-\
-![CodeWars Badge](https://www.codewars.com/users/tmnpierre/badges/large)
-\
-\
-**🎮 Exploring Coding Game**:  
-I'm diving into Coding Game, a stimulating environment to develop my programming skills in a fun and interactive way.
-
 **Technical Skills**:
 
 **Programming Languages**:
