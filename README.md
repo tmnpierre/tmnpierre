@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I am Pierre-Julien, currently training as a .NET/C
 - Features: Timed quizzes, multiple-choice questions, score tracking.
 - Technologies: Java, Game Development Frameworks.
 
-### Projects and Experiences
+### Objectives
 
 **🌉 Seeking Apprenticeship in Application Design and Development (CDA)**:  
 My long-term ambition is to integrate an apprenticeship in Application Design and Development. This is a crucial step in blending theory with practice on my professional path.
