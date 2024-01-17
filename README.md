@@ -1,6 +1,5 @@
 
 
-**Badges**:
 
 - **Langages de Programmation et Technologies**:
   
