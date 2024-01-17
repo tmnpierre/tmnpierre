@@ -48,12 +48,16 @@ Welcome to my GitHub profile! I am Pierre-Julien, currently training as a .NET/C
 
 ### 🚀 Latest Projects
 
-
-
 **🌦️ Weather API in C#:**
 - Description: A real-time weather data API, providing accurate and current weather forecasts.
 - Key Features: External API integration, real-time data processing, user-friendly data presentation.
 - Technologies: C#, .NET Framework, API Development.
+
+🎯 Mini Quiz Game in Java:
+
+- Goal: An engaging and educational mini quiz game.
+- Features: Timed quizzes, multiple-choice questions, score tracking.
+- Technologies: Java, Game Development Frameworks.
 
 ### 🌟 Upcoming Projects
 
@@ -62,10 +66,17 @@ Welcome to my GitHub profile! I am Pierre-Julien, currently training as a .NET/C
 - Focus: User experience, content management, modern web application practices.
 - Technologies: C#, .NET Framework, Web Development Tools.
 
-**🎯 Mini Quiz Game in Java:**
-- Goal: An engaging and educational mini quiz game.
-- Features: Timed quizzes, multiple-choice questions, score tracking.
-- Technologies: Java, Game Development Frameworks.
+📰 Address Book Application in Java:
+
+Goal: Managing an address book.
+Focus: Designing Contact classes, implementing functionalities, utilizing files or databases, creating a CLI interface.
+Technologies: Java, Object-Oriented Programming (OOP), JDBC/SQLite.
+
+📰 Blog Application in C#:
+
+Goal: To create an interactive blog platform for user content sharing and engagement.
+Focus: User experience, content management, modern web application practices.
+Technologies: C#, .NET Framework, Web Development Tools.
 
 ### Objectives
 
