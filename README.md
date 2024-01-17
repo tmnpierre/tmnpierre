@@ -48,10 +48,7 @@ Welcome to my GitHub profile! I am Pierre-Julien, currently training as a .NET/C
 
 ### 🚀 Latest Projects
 
-**🔍 Text Analyzer in Java:**
-- Description: A sophisticated text analysis tool developed in Java, capable of processing and analyzing various textual data.
-- Key Features: Complex algorithm handling, data manipulation, and analysis.
-- Technologies: Java, Data Analysis Libraries.
+
 
 **🌦️ Weather API in C#:**
 - Description: A real-time weather data API, providing accurate and current weather forecasts.
