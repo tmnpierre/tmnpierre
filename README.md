@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I am Pierre-Julien, currently training as a .NET/C
 - Key Features: External API integration, real-time data processing, user-friendly data presentation.
 - Technologies: C#, .NET Framework, API Development.
 
-🎯 Mini Quiz Game in Java:
+**🎯 Mini Quiz Game in Java:**
 
 - Goal: An engaging and educational mini quiz game.
 - Features: Timed quizzes, multiple-choice questions, score tracking.
@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I am Pierre-Julien, currently training as a .NET/C
 - Focus: User experience, content management, modern web application practices.
 - Technologies: C#, .NET Framework, Web Development Tools.
 
-📰 Address Book Application in Java:
+**📰 Address Book Application in Java:**
 
 - Goal: Managing an address book.
 - Focus: Designing Contact classes, implementing functionalities, utilizing files or databases, creating a CLI interface.
