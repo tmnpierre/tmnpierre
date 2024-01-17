@@ -68,15 +68,9 @@ Welcome to my GitHub profile! I am Pierre-Julien, currently training as a .NET/C
 
 📰 Address Book Application in Java:
 
-Goal: Managing an address book.
-Focus: Designing Contact classes, implementing functionalities, utilizing files or databases, creating a CLI interface.
-Technologies: Java, Object-Oriented Programming (OOP), JDBC/SQLite.
-
-📰 Blog Application in C#:
-
-Goal: To create an interactive blog platform for user content sharing and engagement.
-Focus: User experience, content management, modern web application practices.
-Technologies: C#, .NET Framework, Web Development Tools.
+- Goal: Managing an address book.
+- Focus: Designing Contact classes, implementing functionalities, utilizing files or databases, creating a CLI interface.
+- Technologies: Java, Object-Oriented Programming (OOP), JDBC/SQLite.
 
 ### Objectives
 
