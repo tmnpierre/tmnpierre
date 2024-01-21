@@ -44,7 +44,7 @@
    ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Introduction :
-Welcome to my GitHub profile! I am Pierre-Julien, currently training as a .NET/C# developer. Passionate about backend, I am engaged in an intensive learning path to master the fundamentals and advanced aspects of backend development in .NET/C#. My goal is to continue with specialized training in Application Design and Development (CDA), where I wish to deepen my skills and acquire solid expertise in creating effective and innovative backend solutions.
+Welcome to my GitHub profile! I am **Pierre-Julien**, currently training as a .NET/C# developer. Passionate about backend, I am engaged in an intensive learning path to master the fundamentals and advanced aspects of backend development in .NET/C#. My goal is to continue with specialized training in Application Design and Development (CDA), where I wish to deepen my skills and acquire solid expertise in creating effective and innovative backend solutions.
 
 ### 🚀 Latest Projects
 
