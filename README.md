@@ -1,4 +1,3 @@
-### 🌱 .NET/C# Developer - Aspiring to Backend Development 🌱
 
 **Badges**:
 
@@ -116,5 +115,5 @@ I am dedicated to enhancing my coding practice by setting a 2024 goal to make a 
 
 For any questions, collaboration proposals, or just to chat, feel free to contact me:
 
-- 📧 Email: [tomyn.pierre.pro@gmail.com](mailto:tomyn.pierre.pro@gmail.com)
+- 📧 Email: [tomyn.pierre@gmail.com](mailto:tomyn.pierre@gmail.com)
 - 🔗 LinkedIn: [Pierre-Julien Tomyn](https://www.linkedin.com/in/pierre-julien-tomyn-07aa0228b/)
