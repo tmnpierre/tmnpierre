@@ -1,4 +1,3 @@
-### 🌱 .NET/C# Developer - Aspiring to Backend Development 🌱
 
 **Badges**:
 
