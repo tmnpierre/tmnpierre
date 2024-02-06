@@ -114,7 +114,7 @@ I am dedicated to enhancing my coding practice by setting a 2024 goal to make a 
 
 **Contact Me**:
 
-For any questions, collaboration proposals, feel free to contact me:
+For any questions, collaboration proposals, or just chat feel free to contact me:
 
 - 📧 Email: [tomyn.pierre@gmail.com](mailto:tomyn.pierre@gmail.com)
 - 🔗 LinkedIn: [Pierre-Julien Tomyn](https://www.linkedin.com/in/pierre-julien-tomyn-07aa0228b/)
